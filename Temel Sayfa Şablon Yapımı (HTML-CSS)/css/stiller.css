@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{
+			width: 960px;
+			height: 700px;
+			background: #6E6363;
+			margin: 0 auto 0 auto;
+			padding-top: 10px;
+}
+header#banner{
+			width: 940px;
+			height: 100px;
+			background: #FF0004;
+			margin:  10px;
+}
+nav{
+	width: 150px;
+	height: 450px;
+	margin: 10px;
+	background: #6E4DBF;
+	float: left;
+}
+section{
+	width: 600px;
+	height: 450px;
+	margin: 10px;
+	background: #214FA2;
+	float: left;
+	padding-top: 10px;
+}
+aside{
+	width: 150px;
+	height: 450px;
+	margin: 10px;
+	background: #6E4DBF;
+	float: left;
+}
+footer#sitesonu{
+	width: 940px;
+	height: 80px;
+	margin: 10px;
+	background: #13FDC6;
+	float: left;
+}
+header#makale{
+	width: 450px;
+	height: 50px;
+	margin: 0px auto;
+	background: #26CC53;
+}
+article.makale{
+	width: 450px;
+	height: 400px;
+	background: #82090B;
+	margin: 10px auto;
+}
+footer#makalesonu{
+	width: 450px;
+	height: 100px;
+	background: #F1FD30;
+	margin: 10px auto;
+}
